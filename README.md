@@ -1,4 +1,4 @@
-##  Olá, Sou o Samuel e Seja bem vindo!
+##  Olá, Seja bem vindo!
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
