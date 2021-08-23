@@ -1,10 +1,10 @@
 ##  Olá, Seja bem vindo!
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Samuel-R-Duarte/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Samuel-R-Duarte&count_private=true&show_icons=true&icon_color=FFFFFF&bg_color=0f1217&title_color=FFFFFF&text_color=FFFFFF" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Samuel-R-Duarte/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-R-Duarte&layout=compact&show_icons=true&icon_color=FFFFFF&bg_color=0f1217&title_color=FFFFFF&text_color=FFFFFF" />
 </a>
 
