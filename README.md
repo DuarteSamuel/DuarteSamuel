@@ -6,10 +6,6 @@
 </a>
 <p>
 
-- Uma breve descrição sobre mim:
- <p> 
- Sou de Santos/SP vivendo em Natal/RN, estou me graduando em Estatística pela (UFRN) e estagiei no SEBRAE/RN. Tenho interesse nas áreas de ciência de dados com aplicação em Modelagens e Clusterização para detecção de perfis.
-
 
 <!---
 Samuel-R-Duarte/Samuel-R-Duarte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
