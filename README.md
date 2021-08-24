@@ -4,10 +4,6 @@
 <a href="https://github.com/DuarteSamuel/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DuarteSamuel&count_private=true&show_icons=true&icon_color=FFFFFF&bg_color=0f1217&title_color=FFFFFF&text_color=FFFFFF" />
 </a>
-<a href="https://github.com/DuarteSamuel/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteSamuel&layout=compact&show_icons=true&icon_color=FFFFFF&bg_color=0f1217&title_color=FFFFFF&text_color=FFFFFF" />
-</a>
-
 <p>
 
 - Uma breve descrição sobre mim:
