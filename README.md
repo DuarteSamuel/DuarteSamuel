@@ -7,7 +7,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteSamuel&layout=compact&bg_color=0f1217&title_color=FFFFFF&text_color=FFFFFF" />
 </a>
-
+<p>
 Tenho interesse nas áreas de ciência de dados com aplicação em Modelagens e Clusterização para detecção de perfis.
 
 <!---
